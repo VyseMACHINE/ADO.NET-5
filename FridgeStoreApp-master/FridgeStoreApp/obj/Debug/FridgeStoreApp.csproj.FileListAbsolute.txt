@@ -1,0 +1,7 @@
+C:\Users\Ильяс Сабитов\source\FridgeStoreApp\FridgeStoreApp\bin\Debug\FridgeStoreApp.exe.config
+C:\Users\Ильяс Сабитов\source\FridgeStoreApp\FridgeStoreApp\bin\Debug\FridgeStoreApp.exe
+C:\Users\Ильяс Сабитов\source\FridgeStoreApp\FridgeStoreApp\bin\Debug\FridgeStoreApp.pdb
+C:\Users\Ильяс Сабитов\source\FridgeStoreApp\FridgeStoreApp\obj\Debug\FridgeStoreApp.csprojResolveAssemblyReference.cache
+C:\Users\Ильяс Сабитов\source\FridgeStoreApp\FridgeStoreApp\obj\Debug\FridgeStoreApp.csproj.CoreCompileInputs.cache
+C:\Users\Ильяс Сабитов\source\FridgeStoreApp\FridgeStoreApp\obj\Debug\FridgeStoreApp.exe
+C:\Users\Ильяс Сабитов\source\FridgeStoreApp\FridgeStoreApp\obj\Debug\FridgeStoreApp.pdb
